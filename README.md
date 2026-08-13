@@ -118,7 +118,7 @@ My responsibilities include:
 
 ## Contribution Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Athul129\&theme=default\&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Athul129&theme=default&hide_border=true)
 
 ---
 
