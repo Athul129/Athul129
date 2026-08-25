@@ -108,17 +108,6 @@ My responsibilities include:
 
 ---
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Athul129\&show_icons=true\&theme=default\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Athul129\&layout=compact\&theme=default\&hide_border=true)
-
----
-
-## Contribution Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Athul129&theme=default&hide_border=true)
 
 ---
 
