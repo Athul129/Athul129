@@ -55,6 +55,11 @@ An interactive space exploration website featuring animated visual elements and 
 
 **Live Demo:** https://space-website-brown-two.vercel.app/
 
+### Dayweave – Productivity & Focus App
+
+A productivity application designed to help users organize tasks, manage their daily routines, and stay focused through an intuitive user experience.
+
+Live Demo: https://dayweave-app.vercel.app/
 
 ### Mariner33 ERP Platform
 
